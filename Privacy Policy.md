@@ -3,7 +3,7 @@ title: "Privacy Policy"
 subtitle: "February 2, 2024"
 ---
 
-<div>
+<div class="question">
   <span>
     This privacy notice for
     <bdt>Venoxity Development</bdt>
