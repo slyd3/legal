@@ -6,19 +6,11 @@ subtitle: "February 2, 2024"
 <div>
   <span>
     This privacy notice for
-    <bdt>
-      Venoxity Development
-    </bdt>
+    <bdt>Venoxity Development</bdt>
     (
-      "
-      <strong>We</strong>
-      ," "
-            <strong>Us</strong>
-    )
+      "<strong>we</strong>,"
+      "<strong>us</strong>," or
+      "<strong>our</strong>"
+    ),
   </span>
-  <ul style="list-style-type: disc;">
-    <li>This is a bullet point.</li>
-    <li>Another bullet point.</li>
-    <li>And another one.</li>
-  </ul>
 </div>
