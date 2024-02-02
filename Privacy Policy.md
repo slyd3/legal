@@ -3,10 +3,10 @@ title: "Privacy Policy"
 subtitle: "February 2, 2024"
 ---
 
-<div class="question">
-  <span style="text-align: left; word-wrap: break-word !important;">
+<div class="question" style="word-wrap: break-word !important;">
+  <span style="text-align: left;">
     This privacy notice for
-    <bdt>Venoxity Development</bdt>
+    Venoxity Development
     (
     "<strong>we</strong>",
     "<strong>us</strong>", or
@@ -19,4 +19,3 @@ subtitle: "February 2, 2024"
     )
   </span>
 </div>
-
