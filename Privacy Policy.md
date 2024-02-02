@@ -4,7 +4,7 @@ subtitle: "February 2, 2024"
 ---
 
 <div class="question">
-  <span style="text-align: left;">
+  <span style="text-align: left; word-wrap: break-word !important;">
     This privacy notice for
     <bdt>Venoxity Development</bdt>
     (
@@ -16,6 +16,7 @@ subtitle: "February 2, 2024"
     ) <br/>
     your information when you use our services (
     "<strong>Services</strong>"
-    ), such as when you:
+    )
   </span>
 </div>
+
