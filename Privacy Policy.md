@@ -16,6 +16,6 @@ subtitle: "February 2, 2024"
     ) <br/>
     your information when you use our services (
     "<strong>Services</strong>"
-    )
+    ), such as when you:
   </span>
 </div>
