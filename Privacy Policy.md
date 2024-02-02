@@ -13,7 +13,7 @@ subtitle: "February 2, 2024"
       "<strong>our</strong>"
     ), describes how and why we might collect, store, use, and/or share (
       "<strong>process</strong>"
-    ) your information when you use our services (
+    ) <br/> your information when you use our services (
       "<strong>Services</strong>"
     )
   </span>
